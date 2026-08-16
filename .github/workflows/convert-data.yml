@@ -8,29 +8,29 @@ on:
 jobs:
   convert-and-commit:
     runs-on: ubuntu-latest
-    
+
     steps:
       # 步骤1: 检出代码（使用有写入权限的token）
       - name: 检出代码
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           # 如果GITHUB_TOKEN权限不足，可以使用Personal Access Token
           # token: ${{ secrets.MY_PAT }}
-      
+
       # 步骤2: 设置 Python 环境
       - name: 设置 Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.x'
-      
+
       # 步骤3: 拉取原始数据并转换为新格式
       - name: 拉取并转换数据
         run: |
           # 使用curl获取原始JSON数据，并通过管道传递给Python脚本处理
           echo "开始拉取并转换数据..."
           curl -s "https://raw.githubusercontent.com/ningyufeng651/LunaTV-config/refs/heads/main/LunaTV-config.json" | python3 convert_data.py > converted_data.json
-          
+
           # 显示转换统计信息（可选）
           echo "转换完成！统计信息："
           python3 -c "
@@ -43,17 +43,17 @@ jobs:
           print(f'成人站点: {adult}个')
           print(f'优秀站点: {excellent}个')
           "
-      
+
       # 步骤4: 将转换后的文件提交回仓库
       - name: 提交更新
         run: |
           # 配置Git用户信息
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
+
           # 添加文件到暂存区
           git add converted_data.json
-          
+
           # 检查是否有更改
           if git diff --cached --quiet; then
             echo "数据无变化，无需提交。"
@@ -68,7 +68,7 @@ jobs:
             total = len(data['sites'])
             print(f'(共{total}个站点)')
             " 2>/dev/null || echo "")
-            
+
             git commit -m "自动更新：转换站点数据 $TOTAL_COUNT [$TIMESTAMP]"
             git push
             echo "提交成功！"
