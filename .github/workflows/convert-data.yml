@@ -29,7 +29,7 @@ jobs:
         run: |
           # 使用curl获取原始JSON数据，并通过管道传递给Python脚本处理
           echo "开始拉取并转换数据..."
-          curl -s "https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jingjian.json" | python3 convert_data.py > converted_data.json
+          curl -s "https://raw.githubusercontent.com/ningyufeng651/LunaTV-config/refs/heads/main/LunaTV-config.json" | python3 convert_data.py > converted_data.json
           
           # 显示转换统计信息（可选）
           echo "转换完成！统计信息："
