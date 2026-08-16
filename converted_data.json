@@ -1,13 +1,13 @@
 {
   "sites": [
     {
-      "id": "06c7b5aa-8856-47af-aaa8-119dd9ac3abb",
+      "id": "7df72413-c8fd-4eee-b922-7e4f4222c367",
       "key": "🎬-爱奇艺-",
       "name": "🎬-爱奇艺-",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915646+00:00",
+      "time": "2026-08-16T03:47:31.846513+00:00",
       "isDefault": 0,
       "remark": "源站: iqiyizyapi.com",
       "tags": [
@@ -18,13 +18,13 @@
       "customProxy": ""
     },
     {
-      "id": "f2f9faa2-56ec-4fed-89a3-42c2596b2096",
+      "id": "5f555132-d0da-498c-83c0-e1a93d05b4b1",
       "key": "🎬豆瓣资源",
       "name": "🎬豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915672+00:00",
+      "time": "2026-08-16T03:47:31.846535+00:00",
       "isDefault": 0,
       "remark": "源站: dbzy.tv",
       "tags": [
@@ -35,13 +35,13 @@
       "customProxy": ""
     },
     {
-      "id": "161c70e7-0f4c-4f7b-80d4-84677ccf447c",
+      "id": "1c3e91e3-1548-41b7-ae84-85b7a5a9301d",
       "key": "🎬茅台资源",
       "name": "🎬茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915679+00:00",
+      "time": "2026-08-16T03:47:31.846541+00:00",
       "isDefault": 0,
       "remark": "源站: mtzy.me",
       "tags": [
@@ -52,98 +52,13 @@
       "customProxy": ""
     },
     {
-      "id": "198737e4-568d-4aa8-a4f2-39f8b0dcf122",
-      "key": "🎬卧龙资源",
-      "name": "🎬卧龙资源",
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "type": 2,
-      "isActive": 1,
-      "time": "2026-08-16T03:45:24.915684+00:00",
-      "isDefault": 0,
-      "remark": "源站: wolongzyw.com",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    {
-      "id": "7e8d54cf-e8be-42da-a19f-3373fe2ad1e2",
-      "key": "🎬iKun资源",
-      "name": "🎬iKun资源",
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "type": 2,
-      "isActive": 1,
-      "time": "2026-08-16T03:45:24.915688+00:00",
-      "isDefault": 0,
-      "remark": "源站: ikunzy.com",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    {
-      "id": "82ba9475-c5ad-4213-9bf5-e739242fb654",
-      "key": "🎬电影天堂",
-      "name": "🎬电影天堂",
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "type": 2,
-      "isActive": 1,
-      "time": "2026-08-16T03:45:24.915692+00:00",
-      "isDefault": 0,
-      "remark": "源站: dyttzyapi.com",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    {
-      "id": "88023139-7b76-4669-a2f5-31f118e50e0e",
-      "key": "🎬猫眼资源",
-      "name": "🎬猫眼资源",
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
-      "type": 2,
-      "isActive": 1,
-      "time": "2026-08-16T03:45:24.915696+00:00",
-      "isDefault": 0,
-      "remark": "源站: www.maoyanzy.com",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    {
-      "id": "aed3dc1a-4896-46ab-a13b-cad607bb40ff",
-      "key": "🎬量子资源",
-      "name": "🎬量子资源",
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
-      "type": 2,
-      "isActive": 1,
-      "time": "2026-08-16T03:45:24.915699+00:00",
-      "isDefault": 0,
-      "remark": "源站: cj.lzcaiji.com",
-      "tags": [
-        "优秀"
-      ],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    {
-      "id": "17680c02-3619-4f38-a44b-2f56cb8f4499",
+      "id": "903ba7a4-169e-4956-b647-75fe72f77905",
       "key": "🎬360 资源",
       "name": "🎬360 资源",
       "api": "https://360zyzz.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915704+00:00",
+      "time": "2026-08-16T03:47:31.846545+00:00",
       "isDefault": 0,
       "remark": "源站: 360zy.com",
       "tags": [
@@ -154,13 +69,81 @@
       "customProxy": ""
     },
     {
-      "id": "9f3fbdc5-415b-4207-a587-8e878fbcf7df",
+      "id": "86948152-7e31-4676-bfbd-8fef83a57993",
+      "key": "🎬iKun资源",
+      "name": "🎬iKun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846550+00:00",
+      "isDefault": 0,
+      "remark": "源站: ikunzy.com",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "363bcb9e-1cb8-4257-91fd-b0024bfe7c18",
+      "key": "🎬电影天堂",
+      "name": "🎬电影天堂",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846553+00:00",
+      "isDefault": 0,
+      "remark": "源站: dyttzyapi.com",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "d5dbf33e-0452-4e93-ad87-f9d9728cb496",
+      "key": "🎬猫眼资源",
+      "name": "🎬猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846556+00:00",
+      "isDefault": 0,
+      "remark": "源站: www.maoyanzy.com",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "6fa63957-6bed-4dac-a1c9-94adc73f2cf6",
+      "key": "🎬量子资源",
+      "name": "🎬量子资源",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846560+00:00",
+      "isDefault": 0,
+      "remark": "源站: cj.lzcaiji.com",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "e4e26474-3eaa-4d3e-b4a7-ce082e237f60",
       "key": "🎬极速资源",
       "name": "🎬极速资源",
       "api": "https://jszyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915710+00:00",
+      "time": "2026-08-16T03:47:31.846564+00:00",
       "isDefault": 0,
       "remark": "源站: jszyapi.com",
       "tags": [
@@ -171,13 +154,13 @@
       "customProxy": ""
     },
     {
-      "id": "37933a1b-10e3-4c13-9477-b26cb2d11aac",
+      "id": "4d9fd998-d9d3-4c77-bc69-1e6c89f2aaea",
       "key": "🎬魔都资源",
       "name": "🎬魔都资源",
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915713+00:00",
+      "time": "2026-08-16T03:47:31.846567+00:00",
       "isDefault": 0,
       "remark": "源站: www.moduzy.net",
       "tags": [
@@ -188,13 +171,13 @@
       "customProxy": ""
     },
     {
-      "id": "6698612d-3bf8-422f-a49d-bcef46b3333c",
+      "id": "3956ba1a-ff22-4d07-b86d-5d6b0231917e",
       "key": "🎬非凡资源",
       "name": "🎬非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915719+00:00",
+      "time": "2026-08-16T03:47:31.846572+00:00",
       "isDefault": 0,
       "remark": "源站: ffzyapi.com",
       "tags": [
@@ -205,13 +188,13 @@
       "customProxy": ""
     },
     {
-      "id": "1c3dfa1c-bc7e-4d6f-8ac6-6940825b91a5",
+      "id": "9eec0f01-8a4f-4059-93a1-f782894d0bd4",
       "key": "🎬暴风资源",
       "name": "🎬暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915723+00:00",
+      "time": "2026-08-16T03:47:31.846575+00:00",
       "isDefault": 0,
       "remark": "源站: bfzy.tv",
       "tags": [
@@ -222,15 +205,15 @@
       "customProxy": ""
     },
     {
-      "id": "d83399a5-8a5d-4c22-9323-1029a396840f",
+      "id": "08b614bd-0c03-46c6-929f-1beb193aec17",
       "key": "🎬最大资源",
       "name": "🎬最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915726+00:00",
+      "time": "2026-08-16T03:47:31.846580+00:00",
       "isDefault": 0,
-      "remark": "源站: zuida.xyz",
+      "remark": "源站: www.zuidazy.co",
       "tags": [
         "优秀"
       ],
@@ -239,13 +222,13 @@
       "customProxy": ""
     },
     {
-      "id": "1649fd40-a8fb-4c51-b8fc-7be6d24188ec",
+      "id": "7f578501-fe06-47d0-9554-d69d5ec8b604",
       "key": "🎬无尽资源",
       "name": "🎬无尽资源",
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915729+00:00",
+      "time": "2026-08-16T03:47:31.846583+00:00",
       "isDefault": 0,
       "remark": "源站: wujinzy.me",
       "tags": [
@@ -256,13 +239,13 @@
       "customProxy": ""
     },
     {
-      "id": "c9b893ce-00dc-4af9-afbd-c55765fb0b28",
+      "id": "cd4f8eea-09c0-4bf4-a245-7a21efdc5ca9",
       "key": "🎬新浪资源",
       "name": "🎬新浪资源",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915733+00:00",
+      "time": "2026-08-16T03:47:31.846586+00:00",
       "isDefault": 0,
       "remark": "源站: xinlangapi.com",
       "tags": [
@@ -273,13 +256,13 @@
       "customProxy": ""
     },
     {
-      "id": "30aab305-7bff-4ef1-a3bd-e99e80360fee",
+      "id": "26f37385-245c-4263-942b-fc3c96b60e6c",
       "key": "🎬旺旺资源",
       "name": "🎬旺旺资源",
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915737+00:00",
+      "time": "2026-08-16T03:47:31.846589+00:00",
       "isDefault": 0,
       "remark": "源站: api.wwzy.tv",
       "tags": [
@@ -290,13 +273,13 @@
       "customProxy": ""
     },
     {
-      "id": "6602cf5c-f3f2-45f6-b235-ab43c49a2c4c",
+      "id": "729cc5e1-1151-4458-91d6-35ba7df37bcd",
       "key": "🎬速播资源",
       "name": "🎬速播资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915740+00:00",
+      "time": "2026-08-16T03:47:31.846592+00:00",
       "isDefault": 0,
       "remark": "源站: www.subozy.com",
       "tags": [
@@ -307,13 +290,13 @@
       "customProxy": ""
     },
     {
-      "id": "cb5dca22-c542-463e-9910-89f2bfb20532",
+      "id": "6e00bd0d-a100-487e-bfbb-4b27b9c35c18",
       "key": "🎬金鹰点播",
       "name": "🎬金鹰点播",
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915745+00:00",
+      "time": "2026-08-16T03:47:31.846595+00:00",
       "isDefault": 0,
       "remark": "源站: jinyingzy.com",
       "tags": [
@@ -324,13 +307,13 @@
       "customProxy": ""
     },
     {
-      "id": "957348f1-1f39-43a4-8d1f-6108bd84eb11",
+      "id": "0c2de72d-6c99-45b7-be65-9b1b6d7f02c1",
       "key": "🎬飘零资源",
       "name": "🎬飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915748+00:00",
+      "time": "2026-08-16T03:47:31.846604+00:00",
       "isDefault": 0,
       "remark": "源站: p2100.net",
       "tags": [
@@ -341,13 +324,13 @@
       "customProxy": ""
     },
     {
-      "id": "baa8da23-8bcf-4933-82b0-b3c3ef685545",
+      "id": "c6b4b975-7541-4f8a-8199-47688d004ade",
       "key": "🎬U酷影视",
       "name": "🎬U酷影视",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915752+00:00",
+      "time": "2026-08-16T03:47:31.846607+00:00",
       "isDefault": 0,
       "remark": "源站: api.ukuapi88.com",
       "tags": [
@@ -358,13 +341,13 @@
       "customProxy": ""
     },
     {
-      "id": "b79882a6-85fa-42e7-8b85-4a95db19c591",
+      "id": "86a783e5-1f7d-4530-bd4a-02be7a1f5db5",
       "key": "🎬光速资源",
       "name": "🎬光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915755+00:00",
+      "time": "2026-08-16T03:47:31.846610+00:00",
       "isDefault": 0,
       "remark": "源站: api.guangsuapi.com",
       "tags": [
@@ -375,13 +358,13 @@
       "customProxy": ""
     },
     {
-      "id": "1834d9e6-5ac7-47c5-b4ea-203d17686794",
+      "id": "21a6df98-2f53-45df-b75f-3ebc4c1fbb34",
       "key": "🎬红牛资源",
       "name": "🎬红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915758+00:00",
+      "time": "2026-08-16T03:47:31.846613+00:00",
       "isDefault": 0,
       "remark": "源站: www.hongniuzy.com",
       "tags": [
@@ -392,13 +375,13 @@
       "customProxy": ""
     },
     {
-      "id": "7a8dff9f-7588-424e-b069-ab3e8fc4f39f",
+      "id": "f08e367a-6092-4625-9d0d-779cc3044166",
       "key": "🎬魔都动漫",
       "name": "🎬魔都动漫",
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915761+00:00",
+      "time": "2026-08-16T03:47:31.846616+00:00",
       "isDefault": 0,
       "remark": "源站: caiji.moduapi.cc",
       "tags": [
@@ -409,13 +392,13 @@
       "customProxy": ""
     },
     {
-      "id": "fd5bf5a0-429f-458e-b344-259b284a6250",
+      "id": "3fee023e-3706-416c-882b-be3ef8ca22ed",
       "key": "🎬如意资源",
       "name": "🎬如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915765+00:00",
+      "time": "2026-08-16T03:47:31.846619+00:00",
       "isDefault": 0,
       "remark": "源站: www.ryzyw.com",
       "tags": [
@@ -426,13 +409,13 @@
       "customProxy": ""
     },
     {
-      "id": "1eff5172-d2df-42f2-9a7a-e2912e2b2cf0",
+      "id": "bbef580d-8916-4f8c-bbef-9957eb29e742",
       "key": "🎬豪华资源",
       "name": "🎬豪华资源",
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915768+00:00",
+      "time": "2026-08-16T03:47:31.846624+00:00",
       "isDefault": 0,
       "remark": "源站: www.haohuazy.com",
       "tags": [
@@ -443,13 +426,13 @@
       "customProxy": ""
     },
     {
-      "id": "91d87c01-6a8e-487a-b786-7b75335fa786",
+      "id": "d8554698-82ba-4655-b7b8-206eaea30c53",
       "key": "🎬百度云zy",
       "name": "🎬百度云zy",
       "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915772+00:00",
+      "time": "2026-08-16T03:47:31.846627+00:00",
       "isDefault": 0,
       "remark": "源站: bdzy1.com",
       "tags": [
@@ -460,13 +443,13 @@
       "customProxy": ""
     },
     {
-      "id": "dd3a3310-9b8e-45fb-8e4c-6ea15c3496c6",
+      "id": "d46060e5-7f8c-44a9-a40a-30ca03b7cd2f",
       "key": "🎬艾旦影视",
       "name": "🎬艾旦影视",
       "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915775+00:00",
+      "time": "2026-08-16T03:47:31.846630+00:00",
       "isDefault": 0,
       "remark": "源站: lovedan.net",
       "tags": [
@@ -477,13 +460,200 @@
       "customProxy": ""
     },
     {
-      "id": "10ab07ad-5a0e-49ef-ac99-d73726da639b",
+      "id": "5ccdee99-1362-4306-9668-d906c5c40c9e",
+      "key": "🎬量子影视",
+      "name": "🎬量子影视",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846633+00:00",
+      "isDefault": 0,
+      "remark": "源站: lzizy.net",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "48288537-2aa8-4185-916c-1e7a7f945537",
+      "key": "🎬最大点播",
+      "name": "🎬最大点播",
+      "api": "https://zuidazy.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846638+00:00",
+      "isDefault": 0,
+      "remark": "源站: zuidazy.co",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "a69b3d1c-e350-47b5-bd00-a7783dea6257",
+      "key": "🎬无尽影视",
+      "name": "🎬无尽影视",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846640+00:00",
+      "isDefault": 0,
+      "remark": "源站: wujinzy.com",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "5701b7c7-73e8-4be3-aeca-94c82f5114e0",
+      "key": "🎬旺旺短剧",
+      "name": "🎬旺旺短剧",
+      "api": "https://wwzy.tv/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846643+00:00",
+      "isDefault": 0,
+      "remark": "源站: wwzy.tv",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "2ae72669-a048-4d3e-ad18-c19e837a692c",
+      "key": "🎬优质资源",
+      "name": "🎬优质资源",
+      "api": "https://api.yyzy-tv.vip/inc/api_mac10.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846646+00:00",
+      "isDefault": 0,
+      "remark": "源站: 1080zyk4.com",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "a4d1b6a3-cff7-4edf-8163-75d804e5b2fa",
+      "key": "🎬虎牙资源",
+      "name": "🎬虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846649+00:00",
+      "isDefault": 0,
+      "remark": "源站: www.huyaapi.com",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "1ac611fd-cc5e-44f5-ba4f-e67c50658e39",
+      "key": "🎬鸭鸭资源",
+      "name": "🎬鸭鸭资源",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846652+00:00",
+      "isDefault": 0,
+      "remark": "源站: yayazy3.com",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "d050974b-07c1-4b75-95f6-dc6ce6d9484e",
+      "key": "🎬索尼资源",
+      "name": "🎬索尼资源",
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846655+00:00",
+      "isDefault": 0,
+      "remark": "源站: suonizy.net",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "655241c7-2a36-4aed-845c-6933d956ac19",
+      "key": "🎬快车资源",
+      "name": "🎬快车资源",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846659+00:00",
+      "isDefault": 0,
+      "remark": "源站: kuaichezy.com",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "eab0d437-0c33-47cf-87fc-86b8c84da390",
+      "key": "🎬闪电资源",
+      "name": "🎬闪电资源",
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846662+00:00",
+      "isDefault": 0,
+      "remark": "源站: shandianzy.com",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "d8f8801d-16d3-4031-ac25-c8b98c051a76",
+      "key": "🎬樱花资源",
+      "name": "🎬樱花资源",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846666+00:00",
+      "isDefault": 0,
+      "remark": "源站: yhzy.cc",
+      "tags": [
+        "优秀"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "21e64076-73d2-48ef-8736-b2e1cd983df2",
       "key": "🔞麻豆视频",
       "name": "🔞麻豆视频",
       "api": "https://91md.me/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915780+00:00",
+      "time": "2026-08-16T03:47:31.846672+00:00",
       "isDefault": 0,
       "remark": "源站: 91md.me",
       "tags": [
@@ -494,13 +664,13 @@
       "customProxy": ""
     },
     {
-      "id": "6e6f3480-57f6-4c6e-9b1c-fc40a5114465",
+      "id": "8cb6fc27-3b9d-4ccb-a727-f56854e25c95",
       "key": "🔞--AIvin-",
       "name": "🔞--AIvin-",
       "api": "http://lbapiby.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915784+00:00",
+      "time": "2026-08-16T03:47:31.846692+00:00",
       "isDefault": 0,
       "remark": "源站: lbapiby.com",
       "tags": [
@@ -511,13 +681,13 @@
       "customProxy": ""
     },
     {
-      "id": "636007db-ccfc-40dc-9637-3220cc9eff5a",
+      "id": "0b161cb9-c217-47ce-a86c-040545ecb15e",
       "key": "🔞155-资源",
       "name": "🔞155-资源",
       "api": "https://155api.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915787+00:00",
+      "time": "2026-08-16T03:47:31.846697+00:00",
       "isDefault": 0,
       "remark": "源站: 155zy2.com",
       "tags": [
@@ -528,13 +698,13 @@
       "customProxy": ""
     },
     {
-      "id": "c89cf6bf-1bea-4934-8a2e-f5d8bdd343a9",
+      "id": "02735696-ac5c-4262-b56f-22a8cababbfb",
       "key": "🔞玉兔资源",
       "name": "🔞玉兔资源",
       "api": "https://apiyutu.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915790+00:00",
+      "time": "2026-08-16T03:47:31.846700+00:00",
       "isDefault": 0,
       "remark": "源站: apiyutu.com",
       "tags": [
@@ -545,13 +715,13 @@
       "customProxy": ""
     },
     {
-      "id": "4b077dc9-05f3-4711-9b4f-6a82b1f26329",
+      "id": "d71ca23e-b987-42e4-b98a-e2336a9b8016",
       "key": "🔞番号资源",
       "name": "🔞番号资源",
       "api": "http://fhapi9.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915794+00:00",
+      "time": "2026-08-16T03:47:31.846703+00:00",
       "isDefault": 0,
       "remark": "源站: fhapi9.com",
       "tags": [
@@ -562,13 +732,13 @@
       "customProxy": ""
     },
     {
-      "id": "484ec645-11a4-45ca-9e8c-a75d60719306",
+      "id": "e00244b0-5762-42b2-b0ca-8a4f32e14e59",
       "key": "🔞-老色逼-",
       "name": "🔞-老色逼-",
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915799+00:00",
+      "time": "2026-08-16T03:47:31.846706+00:00",
       "isDefault": 0,
       "remark": "源站: apilsbzy1.com",
       "tags": [
@@ -579,13 +749,13 @@
       "customProxy": ""
     },
     {
-      "id": "24f3767d-02d7-4436-b926-3946aef45072",
+      "id": "429f411e-4e3a-4442-9351-6a3820030163",
       "key": "🔞小鸡资源",
       "name": "🔞小鸡资源",
       "api": "https://api.xiaojizy.live/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915802+00:00",
+      "time": "2026-08-16T03:47:31.846709+00:00",
       "isDefault": 0,
       "remark": "源站: xiaojizy.live",
       "tags": [
@@ -596,13 +766,13 @@
       "customProxy": ""
     },
     {
-      "id": "4e0d56fd-adaa-4caf-b64f-19e583166be3",
+      "id": "29d5122f-5651-4caa-9357-436f71928043",
       "key": "🔞黄色仓库",
       "name": "🔞黄色仓库",
       "api": "https://hsckzy.xyz/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915805+00:00",
+      "time": "2026-08-16T03:47:31.846712+00:00",
       "isDefault": 0,
       "remark": "源站: hsckzy.xyz",
       "tags": [
@@ -613,13 +783,13 @@
       "customProxy": ""
     },
     {
-      "id": "f3e035e5-6604-41ca-aa1e-520bfb6de96d",
+      "id": "cd9a4faa-4130-45d9-ab19-c67814518179",
       "key": "🔞-大奶子-",
       "name": "🔞-大奶子-",
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915809+00:00",
+      "time": "2026-08-16T03:47:31.846715+00:00",
       "isDefault": 0,
       "remark": "源站: apidanaizi.com",
       "tags": [
@@ -630,13 +800,13 @@
       "customProxy": ""
     },
     {
-      "id": "b30b4def-e59d-4c77-b770-8fc86b1e0b2e",
+      "id": "45eaf1a5-d62d-47c4-8806-4abd4a463d10",
       "key": "🔞jkun资源",
       "name": "🔞jkun资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915812+00:00",
+      "time": "2026-08-16T03:47:31.846718+00:00",
       "isDefault": 0,
       "remark": "源站: jkunzyapi.com",
       "tags": [
@@ -647,13 +817,13 @@
       "customProxy": ""
     },
     {
-      "id": "c4ab2fef-fbb1-4d27-a2d7-1df71b8afb5b",
+      "id": "c5e902fe-6948-4d46-a5c3-f55196fe778f",
       "key": "🔞乐播资源",
       "name": "🔞乐播资源",
       "api": "https://lbapi9.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915817+00:00",
+      "time": "2026-08-16T03:47:31.846722+00:00",
       "isDefault": 0,
       "remark": "源站: lbapi9.com",
       "tags": [
@@ -664,13 +834,13 @@
       "customProxy": ""
     },
     {
-      "id": "3b0fde0f-dd0a-470b-84b2-93600c893a81",
+      "id": "c32ab0d4-4174-48a8-a40f-c01a75fb13e0",
       "key": "🔞奶香资源",
       "name": "🔞奶香资源",
       "api": "https://Naixxzy.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915822+00:00",
+      "time": "2026-08-16T03:47:31.846726+00:00",
       "isDefault": 0,
       "remark": "源站: Naixxzy.com",
       "tags": [
@@ -681,13 +851,13 @@
       "customProxy": ""
     },
     {
-      "id": "98bab447-70b3-4cd6-941d-12bee6a2ab0e",
+      "id": "6133a53a-b442-410a-8117-dfacf8763000",
       "key": "🔞森林资源",
       "name": "🔞森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915825+00:00",
+      "time": "2026-08-16T03:47:31.846728+00:00",
       "isDefault": 0,
       "remark": "源站: slapibf.com",
       "tags": [
@@ -698,13 +868,13 @@
       "customProxy": ""
     },
     {
-      "id": "196ae857-9232-410b-b1de-aa0a1dba812f",
+      "id": "0dd1daf0-65a6-425e-bec6-de47f4c788f0",
       "key": "🔞辣椒资源",
       "name": "🔞辣椒资源",
       "api": "https://apilj.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915828+00:00",
+      "time": "2026-08-16T03:47:31.846731+00:00",
       "isDefault": 0,
       "remark": "源站: apilj.com",
       "tags": [
@@ -715,13 +885,13 @@
       "customProxy": ""
     },
     {
-      "id": "749536ca-e251-42eb-84df-545dad85b806",
+      "id": "514003a9-9d57-44d1-924e-00b4bc8fe6b5",
       "key": "🔞鲨鱼资源",
       "name": "🔞鲨鱼资源",
       "api": "https://shayuapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915832+00:00",
+      "time": "2026-08-16T03:47:31.846734+00:00",
       "isDefault": 0,
       "remark": "源站: shayuapi.com",
       "tags": [
@@ -732,13 +902,30 @@
       "customProxy": ""
     },
     {
-      "id": "9ab8afe6-ecef-44a6-874f-a9c2d3ec0379",
+      "id": "7194fe57-046e-4cd4-ab67-aaa1906bf949",
+      "key": "🔞豆豆资源",
+      "name": "🔞豆豆资源",
+      "api": "https://api.douapi.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846738+00:00",
+      "isDefault": 0,
+      "remark": "源站: doudouzy.com",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "12268bca-1d1a-4922-acb8-30ea8a925e0e",
       "key": "🔞滴滴资源",
       "name": "🔞滴滴资源",
       "api": "https://api.ddapi.cc/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915837+00:00",
+      "time": "2026-08-16T03:47:31.846741+00:00",
       "isDefault": 0,
       "remark": "源站: didizy.com",
       "tags": [
@@ -749,13 +936,13 @@
       "customProxy": ""
     },
     {
-      "id": "e5ca2f42-85dd-41c0-92ce-2a0b208c08c6",
+      "id": "1933c011-95b9-4aaa-8f4f-ed501da0703a",
       "key": "🔞黑料资源",
       "name": "🔞黑料资源",
       "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915840+00:00",
+      "time": "2026-08-16T03:47:31.846744+00:00",
       "isDefault": 0,
       "remark": "源站: heiliaozy.cc",
       "tags": [
@@ -766,13 +953,13 @@
       "customProxy": ""
     },
     {
-      "id": "95f09b10-19b9-4536-97de-c38f3aeefeeb",
+      "id": "9b202dd8-21a8-4743-a720-98a54d51f182",
       "key": "🔞百万资源",
       "name": "🔞百万资源",
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915843+00:00",
+      "time": "2026-08-16T03:47:31.846746+00:00",
       "isDefault": 0,
       "remark": "源站: api.bwzym3u8.com",
       "tags": [
@@ -783,13 +970,13 @@
       "customProxy": ""
     },
     {
-      "id": "6b94e8ed-7b74-4f86-ab0e-72eff393548e",
+      "id": "a68fb412-42fc-4610-9184-af78c0a51c0c",
       "key": "🔞桃花资源",
       "name": "🔞桃花资源",
       "api": "https://thzy1.me/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915847+00:00",
+      "time": "2026-08-16T03:47:31.846750+00:00",
       "isDefault": 0,
       "remark": "源站: thzy8.me",
       "tags": [
@@ -800,13 +987,13 @@
       "customProxy": ""
     },
     {
-      "id": "b2b8a897-e30e-4617-8453-f000e3e281ad",
+      "id": "058a54ee-225b-4612-ae16-5bfda41dec2d",
       "key": "🔞精品资源",
       "name": "🔞精品资源",
       "api": "https://www.jingpinx.com/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915850+00:00",
+      "time": "2026-08-16T03:47:31.846754+00:00",
       "isDefault": 0,
       "remark": "源站: www.jingpinx.com",
       "tags": [
@@ -817,13 +1004,30 @@
       "customProxy": ""
     },
     {
-      "id": "3bafab62-09e5-476f-a5b9-3f18dae4b34d",
+      "id": "991ec9fc-b449-4138-a1dc-8866d9a9d854",
+      "key": "🔞 CK-资源",
+      "name": "🔞 CK-资源",
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846757+00:00",
+      "isDefault": 0,
+      "remark": "源站: ckzy.me",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "7ecf76c1-bdf8-41b8-ad45-dd10ac20f64c",
       "key": "🔞souavZY",
       "name": "🔞souavZY",
       "api": "https://api.souavzyw.net/api.php/provide/vod",
       "type": 2,
       "isActive": 1,
-      "time": "2026-08-16T03:45:24.915854+00:00",
+      "time": "2026-08-16T03:47:31.846763+00:00",
       "isDefault": 0,
       "remark": "源站: souavzyw.com",
       "tags": [
@@ -832,10 +1036,180 @@
       "priority": 0,
       "proxyMode": "none",
       "customProxy": ""
+    },
+    {
+      "id": "aa78a2ab-a90c-4327-a13b-ab2be4e5cbab",
+      "key": "🔞细胞资源",
+      "name": "🔞细胞资源",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846766+00:00",
+      "isDefault": 0,
+      "remark": "源站: www.xxibaozyw.com",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "6a74df3e-5239-4e84-a504-c2d38567feff",
+      "key": "🔞香蕉资源",
+      "name": "🔞香蕉资源",
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846769+00:00",
+      "isDefault": 0,
+      "remark": "源站: xiangjiaozyw.com",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "3e3fec0d-6129-41db-99cd-3de26ff6192b",
+      "key": "🔞-美少女-",
+      "name": "🔞-美少女-",
+      "api": "https://www.msnii.com/api/json.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846772+00:00",
+      "isDefault": 0,
+      "remark": "源站: www.msnii.com",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "9e8a0593-bf21-48ad-8b6f-8253b0fe5e3a",
+      "key": "🔞-黄AVZY",
+      "name": "🔞-黄AVZY",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846775+00:00",
+      "isDefault": 0,
+      "remark": "源站: www.pgxdy.com",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "2ed6ac19-3a52-4156-a105-ce16a20911a2",
+      "key": "🔞白嫖资源",
+      "name": "🔞白嫖资源",
+      "api": "https://www.kxgav.com/api/json.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846778+00:00",
+      "isDefault": 0,
+      "remark": "源站: www.kxgav.com",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "56e448e5-8e2b-45ea-8d74-30b496b8bacd",
+      "key": "🔞杏吧资源",
+      "name": "🔞杏吧资源",
+      "api": "https://xingba222.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846781+00:00",
+      "isDefault": 0,
+      "remark": "源站: xingba111.com",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "5bc8f41e-34ec-4b56-b58f-d10065ca8f6a",
+      "key": "🔞大地资源",
+      "name": "🔞大地资源",
+      "api": "https://dadiapi.com/feifei",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846784+00:00",
+      "isDefault": 0,
+      "remark": "源站: dadizy11.com",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "93c87d60-db80-4b94-94e6-9f9f05016223",
+      "key": "🔞色猫资源",
+      "name": "🔞色猫资源",
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846788+00:00",
+      "isDefault": 0,
+      "remark": "源站: semaozy1.com",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "0d6fc5e3-df72-40cd-b6fd-24928fe7be40",
+      "key": "🔞-奥斯卡-",
+      "name": "🔞-奥斯卡-",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846791+00:00",
+      "isDefault": 0,
+      "remark": "源站: aosikazy.com",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
+    },
+    {
+      "id": "e1d691af-347e-4f57-9f20-88798ed96640",
+      "key": "🔞丝袜资源",
+      "name": "🔞丝袜资源",
+      "api": "https://siwazyw.tv/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2026-08-16T03:47:31.846794+00:00",
+      "isDefault": 0,
+      "remark": "源站: siwazyw.tv",
+      "tags": [
+        "成人"
+      ],
+      "priority": 0,
+      "proxyMode": "none",
+      "customProxy": ""
     }
   ],
-  "exportTime": "2026-08-16T03:45:24.915Z",
-  "total": 49,
+  "exportTime": "2026-08-16T03:47:31.846Z",
+  "total": 71,
   "filters": {
     "search": null,
     "tags": null,
